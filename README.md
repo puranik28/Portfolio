@@ -21,19 +21,20 @@ Major: Biological Sciences | Minor: Chemistry
 •	Methodologies: Agile Scrum
 
 ### Projects
-**Comprehensive Property Assessment Data Visualization Platform (Prospect)**
+•	**Comprehensive Property Assessment Data Visualization Platform (Prospect)**
 https://drive.google.com/file/d/1f04CqupBodooNci2n6eSx6_pp20bAyli/view?usp=sharing
-
 Languages: Python, SQL | Frameworks: Django, Node.js, React.js | Databases: PostgreSQL, MongoDB
 •	Developed a web-based platform for visualizing property assessment data, applying machine learning techniques.
 •	Collaborated with designers to create engaging data visualization components.
-**Restaurant Ordering and Pickup Management System (MINK)**
+
+•	**Restaurant Ordering and Pickup Management System (MINK)**
 https://drive.google.com/file/d/1CbF2svEfbmXkKCEfUDn1dvjT61xhMfsI/view?usp=sharing
 
 Languages: JavaScript | Frameworks: Node.js, React.js | Databases: MongoDB
 •	Developed a web application that streamlined the ordering process and facilitated efficient pickups from local restaurants.
 •	Designed user-friendly interfaces and analytics features to improve customer engagement.
-**Fast-food Restaurant Shift Scheduling App (Scheduler)**
+
+•	**Fast-food Restaurant Shift Scheduling App (Scheduler)**
 https://drive.google.com/file/d/15ie6myLilPRMgUQD_1g0R0HIQdKb7_X9/view?usp=sharing
 
 Languages: Kotlin | Tools: Android Studio
